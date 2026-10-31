@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.bak
+*.tmp
+*.zip
+*.tar.gz
+site/.DS_Store

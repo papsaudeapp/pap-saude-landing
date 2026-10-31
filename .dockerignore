@@ -1,0 +1,9 @@
+.git
+.github
+README.md
+scripts
+ops
+*.zip
+*.tar.gz
+.env*
+**/.DS_Store
